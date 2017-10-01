@@ -1,0 +1,10 @@
+x: to delete a character
+u: to undo an action (the equivalent of Ctrl+z)
+dd: to delete a line
+dw: to delete a word
+yy: to copy a line
+yw: to copy a word
+p: to paste the previously deleted or copied line or word
+e : to move to the next word (faster than just moving with the arrow keys)
+r: to replace a letter (press r, then the new letter)
+

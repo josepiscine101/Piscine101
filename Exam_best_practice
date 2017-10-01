@@ -1,0 +1,52 @@
+TREMBLE NAGEUR, C’EST LA COMPET!
+
+
+Vendredi, bientot 18 h00. tu n’a plus un poil de sec. C’est normal t’es a la piscine, ca fait une heure que tu bats le pavé en attendant l’ouverture des portes et tu flippes de ne pas pouvoir accéder  l’ ’’examshell’ , (la coquille d’examen) en moins de 10 mn.
+
+RELAX !!!...
+
+respire un bon coup, rentre d’un pas gaillard dans le cluster rebooté de neuf, fais un sourire au poisson du bocal qui vérifie ta carte. Tu files vers le Mac que tu as repéré auparavant et dont tu es sur qu’il fonctionne correctement.
+
+Tu déposes tes affaires (manteau y compris) le long du mur (EN RESPECTANT LES ZONES REPEREREES PAR DES SCOTCHS NOIRS, attention oeuvres d’art},  et tu éteins ton téléphone que tu as laissé dans ton sac.
+
+Bon, tu respire encore, tu penses à la jolie fille ou au beau garcon qui t’as mis minable sur la correction de l’ex02.
+
+tu ne reconnais plus ton ordinateur. il est tout gris. Tu as quelques minutes avant que le coup d’envoi ne soit lancé par un malade qui te cries des consignes à un niveau de décibels incompatible avec la santé de tes pauvres oreilles. Profites-en pour vérifier que tous les périphériques de ton apple sont fiables et bien réglés.
+
+Dés que ca gueule dans les hauts-parleurs,  tu tapes le login et le mot de passe (pas TON login, ni TON mot de passe !)
+
+login : EXAM
+mdp : EXAM
+
+Ca s’ouvre gentiment sur un écran de désolation : seulement 4 petites icones dans le dock.
+
+tu cliques sur celle de l’éditeur python et tu écris :
+“kinit” suivi de ton login (emacron, par exemple).
+
+bieenn !!!   On te demande ton mot de passe, pas de panique, tu le tapes (jMbrigit!!) , par exemple) + enter>
+
+coool !!!
+là, tu écris tout de suite “examshell”
+
+BINGO !! tu viens d’éviter de sortir, la honte aux joues, devant tout le monde, au bout de 10 mn.
+
+Avant d’ouvrir les exos, lis attentivement les consignes qui viennent de s’afficher et qui t’aideront à éviter que tout le beau travail que tu as accompli reste ignoré de Moulinette et Norminette.
+
+
+maintenant, tu peux te concentrer sur tes exos que tu trouveras en naviguant avec tes commandes préférées (pwd, ls, ls -la) dans la fenetre Shell que tu viens d’ouvrir (en laissant la fenetre Python ouverte avec les consignes bien en vue).
+
+Les sujets sont dans le dossier “subject” (malin lapin!), et il faudra créer les dossiers et fichiers demandés dans le dossier “rendu” (clever beaver) ou t’attend sagement un dossier, créé spécialement pour toi par la moulinette  ou tu pourras créer ton dossier + fichier(s) demandé(s). il faudra vérifier par un “ls -la / magistral, que tout est bien la au moment d’envoyer. surtout supprimes les dossiers et fichiers inutiles avant de pusher ton Git (j’ai quand meme appris des expressions de folie en quelques semaines !).
+
+Avec quelques “grade me” bien placés, tu peux envoyer progressivement ta prose en C vers Big Brother et ses groupies (Moulinette et Norminette).
+
+En tapant “finish” tu te soumets au controle du logiciel correcteur qui, dans sa grande bonté, te permet de passer à l’exercice suivant.
+
+
+et surtout n’oublies pas, comme disait the Queen Mother :
+
+KEEP CALM,
+DON’T PANIK
+
+et un exam, ce n'est qu'un exam ...
+
+ET UN EXAM, CE N’EST QU’UN EXAM !!!!
